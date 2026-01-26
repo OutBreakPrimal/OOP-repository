@@ -1,0 +1,10 @@
+package task1;
+
+public class Microscope {
+    public void enlarge(Object o) {
+        System.out.println("🔬");
+    }
+
+    public static void bang() {
+    }
+}
